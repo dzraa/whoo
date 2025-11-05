@@ -1,0 +1,40 @@
+body {
+    background-color: #ffecea; /* Soft pink background */
+    font-family: 'Arial', sans-serif;
+    color: #ffdada;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff98a7; /* Light pink header */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.introduction {
+    padding: 20px;
+    text-align: center;
+}
+
+.section {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ffb6c1; /* Light pink footer */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
